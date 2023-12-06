@@ -6,6 +6,7 @@ This is a repository of game development lab, where students learn to build The 
 
 [Working of game](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/the-zombie-shoot-game.gif)
 
+output link : https://akshatm33.github.io/zombie-shoot-boilerplate/
 
 Fork this repo and get started with the project.
 
@@ -33,3 +34,5 @@ Iteration 6: Write a code to start the game by calling the first zombie
 Iteration 7: Write the helper function to get random integer
 
 Happy Coding ❤️ 
+
+
